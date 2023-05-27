@@ -1,5 +1,5 @@
 
-#  -------------------------------------   **Writing a shell script to backup a directory** ------------------------------------------
+#  --------------------------------**Writing a shell script to backup a directory** ----------------------------------
 ##  **Description**    
    ### ***1- Overview on programs' hierarchy***   
   
